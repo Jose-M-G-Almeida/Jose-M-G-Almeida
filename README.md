@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jose-M-G-Almeida
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 jo-gomes@sapo.pt
 
 <!---
 Jose-M-G-Almeida/Jose-M-G-Almeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
